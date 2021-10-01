@@ -1,33 +1,33 @@
 ﻿group,variable,value
-Mobile Developer,Etisalat,2
-Mobile Developer,MBC,5
-Mobile Developer,Google,1
-Mobile Developer,Amazon,3
-Mobile Developer,LinkedIn,4
-Mobile Developer,Facebook,1
-Mobile Developer,ZU,1
-Mobile Developer,KU,2
-Web Developer,Etisalat,3
-Web Developer,MBC,1
-Web Developer,Google,4
-Web Developer,Amazon,2
-Web Developer,LinkedIn,2
-Web Developer,Facebook,3
-Web Developer,ZU,1
-Web Developer,KU,1
-Front End Developer,Etisalat,1
-Front End Developer,MBC,2
-Front End Developer,Google,3
-Front End Developer,Amazon,1
-Front End Developer,LinkedIn,5
-Front End Developer,Facebook,2
-Front End Developer,ZU,1
-Front End Developer,KU,1
-Software Engineer,Etisalat,3
-Software Engineer,MBC,1
-Software Engineer,Google,4
-Software Engineer,Amazon,2
-Software Engineer,LinkedIn,1
-Software Engineer,Facebook,3
-Software Engineer,ZU,5
-Software Engineer,KU,5
+Etisalat,Mobile Developer,2
+MBC,Mobile Developer,5
+Google,Mobile Developer,1
+Amazon,Mobile Developer,3
+LinkedIn,Mobile Developer,4
+Facebook,Mobile Developer,1
+ZU,Mobile Developer,1
+KU,Mobile Developer,2
+Etisalat,Web Developer,3
+MBC,Web Developer,1
+Google,Web Developer,4
+Amazon,Web Developer,2
+LinkedIn,Web Developer,2
+Facebook,Web Developer,3
+ZU,Web Developer,1
+KU,Web Developer,1
+Etisalat,Front End Developer,1
+MBC,Front End Developer,2
+Google,Front End Developer,3
+Amazon,Front End Developer,1
+LinkedIn,Front End Developer,5
+Facebook,Front End Developer,2
+ZU,Front End Developer,1
+KU,Front End Developer,1
+Etisalat,Software Engineer,3
+MBC,Software Engineer,1
+Google,Software Engineer,4
+Amazon,Software Engineer,2
+LinkedIn,Software Engineer,1
+Facebook,Software Engineer,3
+ZU,Software Engineer,5
+KU,Software Engineer,5
